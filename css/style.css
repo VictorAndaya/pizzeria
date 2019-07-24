@@ -1,0 +1,98 @@
+:root {
+    --fuentePrimaria: 'Playfair Display', serif;
+    --fuenteSecundaria: 'Raleway', sans-serif;
+    --primario: #037bc0;
+    --secundario: #8cbc00;
+}
+/** Globales **/
+.imagen-bg{
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+
+}
+h2 {
+    font-size: 3rem;
+}
+.bg-primary{
+    background-color: maroon!important;
+}
+.img-fluid{
+    font-size: cover;
+}
+
+/** Titulo **/
+.titulo{
+    font-family: 'Playfair Display',serif;
+}
+.titulo span{
+    color: maroon;
+}
+.nav-link{
+    color: black!important;
+}
+.navbar{
+    border-top: 1px solid #e1e1e1;
+    border-bottom: 1px solid #e1e1e1;
+    
+}
+
+/** Imagen Principal **/
+.imagen-principal{
+    background-image: url(../img/principal.jpg);
+    height: 35rem;
+
+}
+/** Categorias **/
+.categorias a{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    color: black!important;
+    font-size: 2rem;
+}
+.categorias a:hover{
+    text-decoration: none;
+}
+.img-s{
+    width:100%;
+    height: 250px;
+    object-fit: cover;
+}
+.img-m{
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+/** Nostros**/
+
+.sobre-nosotros,
+.imagen-nosotros{
+    min-height: 35rem;
+}
+.imagen-nosotros{
+    background-image: url(../img/nosotros.jpg);
+}
+.info-producto .precio{
+    font-size: 1.8rem;
+}
+
+.footer{
+    border-top: 1px solid #e1e1e1;
+}
+.footer-menu .nav-limk{
+    color: #666!important;
+}
+
+/** Redes Sociales **/
+.box-part{
+    background:#FFF;
+    border-radius:0;
+    padding:10px 10px;
+    margin:30px 0px;
+}
+.box{
+    padding:60px 0px;
+}
+.fa{
+    color:#4183D7;
+}
