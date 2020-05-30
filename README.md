@@ -1,3 +1,4 @@
 # pizzeria
 Pagina web de una pizzeria 
-@https://victorandaya.github.io/pizzeria/
+Vista de la web.
+https://victorandaya.github.io/pizzeria/
